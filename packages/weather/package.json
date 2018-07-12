@@ -1,0 +1,12 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "license": "MIT",
+  "dependencies": {
+    "@storybook/react": "^3.4.6",
+    "@types/react": "^16.3.16",
+    "react": "^16.4.0",
+    "typescript": "^2.9.1"
+  }
+}
